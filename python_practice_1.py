@@ -1,1 +1,0 @@
-print("Viktor Kyshenchuk, AI-1")
